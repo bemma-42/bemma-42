@@ -1,5 +1,5 @@
 <p align="center">
-  <a><img src="https://img.shields.io/badge/bemma-%23000000?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=%23000000&" width=auto>
+  <a><img src="https://img.shields.io/badge/bemma-%23000000?style=for-the-badge&logo=42&logoColor=black&logoSize=auto&labelColor=%000000" width=4000>
 </p>
 
 <!-- Titre et Présentation principale -->
