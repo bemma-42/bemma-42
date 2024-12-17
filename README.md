@@ -43,7 +43,39 @@
 
 &#9656; [More information about these 42 school projects](https://github.com/orgs/bemma-42-Projects/repositories)
 
----
+<body>
+    <header style="text-align: center;"><h2>BULLE BIZARE</h2></header>
+    <table class="card">
+        <tr> 
+            <td><h2>Design Card</h2></td>
+        </tr>
+        <tr>
+            <td><img src="https://i.pinimg.com/originals/8d/66/d9/8d66d96a9893ee18763d913767db869f.png" alt=""></td>
+        </tr>
+        <tr>
+            <td><h4>Ebouicho</h4></td>
+        </tr>
+        <tr>
+            <td><h5>Pokemon,Level 156</h5></td>
+        </tr>
+        <tr>
+            <td><h6>Plante</h6></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.instagram.com/pokemon/?hl=fr"><ion-icon name="logo-instagram"></ion-icon></a>
+                <a href="https://twitter.com/PokemonFR"><ion-icon name="logo-twitter"></ion-icon></a>
+                <a href="https://twitter.com/PokemonFR"><ion-icon name="logo-twitch"></ion-icon></a>
+                <a href="https://www.pokepedia.fr/Bulbizarre"><ion-icon name="globe-outline"></ion-icon></a>
+            </td>
+        </tr>
+        <tr><td class="ligne"><button><ion-icon id="phone"  name="call-outline"></ion-icon>Contact</button></td></tr>
+</table>
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</body>
+
+<!---
 <div align="center"> 
   <a href="bemma@student.42perpignan.fr" target="_blank">
     <img src="https://png.pngtree.com/png-vector/20190129/ourmid/pngtree-email-vector-icon-png-image_355828.jpg" />
