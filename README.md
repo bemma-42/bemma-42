@@ -35,5 +35,5 @@
 
 <!-- Liens réseaux sociaux -->
 <p align="center">
-  <a><img src="https://img.shields.io/badge/bemma-%23000000?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=%23000000&width=20000">
+  <a><img src="https://img.shields.io/badge/bemma-%23000000?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=%23000000&" width=4000>
 </p>
