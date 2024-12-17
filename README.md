@@ -45,8 +45,8 @@
 
 ---
 <div align="center"> 
-  <a href="bemma@student.42perpignan.fr">
-    <ion-icon name="logo-instagram"></ion-icon>
+  <a href="bemma@student.42perpignan.fr" target="_blank">
+    <img src="https://png.pngtree.com/png-vector/20190129/ourmid/pngtree-email-vector-icon-png-image_355828.jpg" />
   </a>
   <a href="https://www.instagram.com/devj2k" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-7C42EE?style=for-the-badge&logo=instagram&logoColor=white" />
