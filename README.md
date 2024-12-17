@@ -2,7 +2,7 @@
 <!-- Titre et Présentation principale -->
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=3500&color=111111&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Emma+!+%F0%9F%91%8B" alt="Hey, I'm Emma ! 👋🏻" /></h1>
-<h3 align="center"> <b>I'm learning at</b> <a href="https://github.com/42School" color=white>42</a> Perpignan 🎓</h3>
+<h3 align="center"> <b>I'm learning at</b> <a href="https://github.com/42School" color=FFFFFF>42</a> Perpignan 🎓</h3>
 
 ---
 
@@ -21,7 +21,7 @@
 <a href="https://github.com/bemma-42-Projects/push_swap">![42 Badge](https://github.com/bemma-42/bemma-42/blob/main/42_Badges/push_swapm.png)</a>
 
 </div>
-<p align="center"><a href="https://github.com/42School" target="_blank">More about my projects</a></p>
+<p align="center"><a href="https://github.com/42School" color=FFFFFF>More about my projects</a></p>
 
 ---
 
