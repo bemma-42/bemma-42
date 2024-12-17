@@ -1,8 +1,8 @@
 
 <!-- Titre et Présentation principale -->
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=3500&color=7E3FF7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Emma+!+%F0%9F%91%8B" alt="Hey, I'm Emma ! 👋🏻" /></h1>
-<h3 align="center">  <a href="https://github.com/42School" target="_blank">42School</a>Perpignan Student 🎓</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=3500&color=E6526F&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Emma+!+%F0%9F%91%8B" alt="Hey, I'm Emma ! 👋🏻" /></h1>
+<h3 align="center"> <b>I'm learning at</b> <a href="https://github.com/42School" target="_blank">42</a>Perpignan 🎓</h3>
 
 ---
 
@@ -42,13 +42,6 @@
 ### ⁴² **Log in** :
 <p align="center">
   <a><img src="https://img.shields.io/badge/bemma-%23000000?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=%23000000">
-</p>
-
----
-
-<!-- Dernière mise à jour automatique -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VotreNomUtilisateur&label=Vues+du+profil&color=blue&style=flat" alt="Nombre de vues" />
 </p>
 
 ---
