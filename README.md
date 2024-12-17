@@ -1,6 +1,6 @@
-### Hello World !
+### Hi! 👋🏻
 
-I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
+I'm Emma, a student at 42 Perpignan.
 
 <!--
 <div align="center">
@@ -11,19 +11,6 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 -->
----
-
-### Latest blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Sockets and Network Programming in C](https://www.codequoi.com/en/sockets-and-network-programming-in-c/)
-- [CTF Walkthrough: Wonderland on TryHackMe](https://www.codequoi.com/en/ctf-walkthrough-wonderland-tryhackme/)
-- [IPv4 Addresses, Routing and Subnet Masks](https://www.codequoi.com/en/ipv4-addresses-routing-and-subnet-masks/)
-- [Sending and Intercepting a Signal in C](https://www.codequoi.com/en/sending-and-intercepting-a-signal-in-c/)
-- [Threads, Mutexes and Concurrent Programming in C](https://www.codequoi.com/en/threads-mutexes-and-concurrent-programming-in-c/)
-<!-- BLOG-POST-LIST:END -->
-... read more articles on [codequoi.com](https://www.codequoi.com/en). :fr: Mes articles sont aussi [disponibles en français](https://www.codequoi.com).
-
 ---
 
 ### 42 School Projects
