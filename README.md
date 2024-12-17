@@ -64,7 +64,7 @@
 <!-- Liens réseaux sociaux -->
 ### 🌐 **Retrouvez-moi ici** :
 <p align="center">
-  <a href="mailto:bemma@student.42perpignan.fr" target="_blank"><img src="https://img.shields.io/badge/-%23FFFFF?style=flat-square&logo=gmail&logoColor=%23EA4335" /></a>
+  <a href="mailto:bemma@student.42perpignan.fr" target="_blank"><img src="https://img.shields.io/badge/-%23FFFFFF?style=flat-square&logo=gmail" /></a>
   <a><img src="https://img.shields.io/badge/bemma-%23000000?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=%23000000">
   <a href="https://www.linkedin.com/in/emma-bouichou-360692342/" target="_blank"><img src="https://img.shields.io/badge/-%23FFFFFF?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&logoSize=auto&color=%23FFFFFF" /></a>
 </p>
