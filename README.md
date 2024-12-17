@@ -24,7 +24,7 @@
 
 ---
 
-<!-- Badges pour les technos -->
+<!-- Badges pour les technos
 ### ⚡ **Compétences** :
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -36,16 +36,16 @@
 
 ---
 
-<!-- Statistiques GitHub -->
+<!-- Statistiques GitHub 
 ### 📊 **Mes statistiques GitHub** :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateur&show_icons=true&theme=radical" alt="Mes stats GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VotreNomUtilisateur&theme=radical" alt="GitHub Streak" />
 </p>
 
----
+--->
 
-<!-- Langages les plus utilisés -->
+<!-- Langages les plus utilisés 
 ### 🚀 **Langages utilisés** :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VotreNomUtilisateur&layout=compact&theme=radical" alt="Top Langages" />
@@ -53,7 +53,7 @@
 
 ---
 
-<!-- Trophées GitHub -->
+<!-- Trophées GitHub 
 ### 🏆 **Trophées** :
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VotreNomUtilisateur&theme=darkhub&row=1&column=6" alt="Trophées GitHub" />
@@ -64,9 +64,9 @@
 <!-- Liens réseaux sociaux -->
 ### 🌐 **Retrouvez-moi ici** :
 <p align="center">
-  <a href="https://github.com/VotreNomUtilisateur" target="_blank"><img src="https://img.shields.io/badge/:badgeContent?style=flat&logo=Gmail&logoColor=black&logoSize=auto&labelColor=red" /></a>
-  <a href="https://linkedin.com/in/VotreProfil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:votremail@example.com"><img src="" /></a>
+  <a href="mailto:bemma@student.42perpignan.fr" target="_blank"><img src="https://img.shields.io/badge/-%23FFFFFF?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&color=%23FFFFFF" /></a>
+  <a><img src="https://img.shields.io/badge/bemma-%23000000?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=%23000000">
+  <a href="https://www.linkedin.com/in/emma-bouichou-360692342/" target="_blank"><img src="https://img.shields.io/badge/-%23FFFFFF?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&logoSize=auto&color=%23FFFFFF" /></a>
 </p>
 
 ---
