@@ -1,72 +1,47 @@
 
 <!-- Titre et Présentation principale -->
-<h1 align="center">Salut, moi c'est <a href="#">[Ton Prénom]</a> 👋</h1>
-<h3 align="center">Étudiant passionné chez <a href="https://www.42.fr/" target="_blank">42</a> | Développeur en devenir 🚀</h3>
-
----
-
-<!-- Animation textuelle -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=%C3%89tudiant+chez+42+%7C+Passionn%C3%A9+de+Code;Je+suis+d%C3%A9termin%C3%A9+%C3%A0+cr%C3%A9er+des+projets+incroyables;Let's+code+something+great+!)](https://git.io/typing-svg)
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=3500&color=7E3FF7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Emma+!+%F0%9F%91%8B" alt="Hey, I'm Emma ! 👋🏻" /></h1>
+<h3 align="center">  <a href="https://github.com/42School" target="_blank">42School</a>Perpignan Student 🎓</h3>
 
 ---
 
 <!-- Présentation rapide -->
-### 👨‍💻 À propos de moi :
-- 🎓 Étudiant en **programmation** à l'école [42](https://www.42.fr/)
-- 💡 J'aime explorer et apprendre les **technologies back-end** et **front-end**.
-- 🔭 **Projets réalisés chez 42 :**
-  - Piscine C 🏊‍♂️ : Maîtrise des bases du langage **C**
-  - Projet **Libft** : Création de ma propre bibliothèque standard en C
-  - **GNL (Get Next Line)** : Lecture de fichiers ligne par ligne
+### 👨‍💻 About me :
+- 👾 Before I never code, I've literally discovered a new passion: **coding**.
+- 🏆 I successfully completed the "Piscine" in August 2024 (perpignan's third promotion).
 
-- 🌱 Je continue d'apprendre **Python, JavaScript, React** et **Docker**.
-- 🎯 Mon objectif : Contribuer à des projets **open-source** et collaborer avec d'autres développeurs.
+### 42 School Projects
+<div align="center">
 
----
+<a href="https://github.com/bemma-42-Projects/libft">![42 Badge](https://github.com/bemma-42/bemma-42/blob/main/42_Badges/libftm.png)</a>
+<a href="https://github.com/bemma-42-Projects/get_next_line">![42 Badge](https://github.com/bemma-42/bemma-42/blob/main/42_Badges/get_next_linem.png)</a>
+<a href="https://github.com/bemma-42-Projects/ft_printf">![42 Badge](https://github.com/bemma-42/bemma-42/blob/main/42_Badges/ft_printfm.png)</a>
+<a href="https://github.com/bemma-42-Projects/push_swap">![42 Badge](https://github.com/bemma-42/bemma-42/blob/main/42_Badges/push_swapm.png)</a>
 
-<!-- Badges pour les technos
-### ⚡ **Compétences** :
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-</p>
+</div>
+
+&#9656; [More information about these 42 school projects](https://github.com/orgs/bemma-42-Projects/repositories)
 
 ---
 
-<!-- Statistiques GitHub 
-### 📊 **Mes statistiques GitHub** :
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateur&show_icons=true&theme=radical" alt="Mes stats GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VotreNomUtilisateur&theme=radical" alt="GitHub Streak" />
-</p>
-
---->
-
-<!-- Langages les plus utilisés 
-### 🚀 **Langages utilisés** :
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VotreNomUtilisateur&layout=compact&theme=radical" alt="Top Langages" />
-</p>
-
----
-
-<!-- Trophées GitHub 
 ### 🏆 **Trophées** :
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VotreNomUtilisateur&theme=darkhub&row=1&column=6" alt="Trophées GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bemma-42&theme=darkhub&row=1&column=6" alt="Trophées GitHub" />
+</p>
+
+### 📊 **Mes statistiques GitHub** :
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bemma-42&show_icons=true&theme=radical" alt="Mes stats GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bemma-42&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 <!-- Liens réseaux sociaux -->
-### 🌐 **Retrouvez-moi ici** :
+### ⁴² **Log in** :
 <p align="center">
-  <a href="mailto:bemma@student.42perpignan.fr" target="_blank"><img src="https://img.shields.io/badge/-%23FFFFFF?style=flat&logo=gmail&logoSize=auto&width=200" /></a>
   <a><img src="https://img.shields.io/badge/bemma-%23000000?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=%23000000">
-  <a href="https://www.linkedin.com/in/emma-bouichou-360692342/" target="_blank"><img src="https://img.shields.io/badge/-%23FFFFFF?style=flat&logo=linkedin&logoColor=%230A66C2&logoSize=auto&width=200" /></a>
 </p>
 
 ---
@@ -77,8 +52,6 @@
 </p>
 
 ---
-
-🚀 **"On n'apprend jamais mieux que lorsqu'on s'amuse !"**
 
 
 
