@@ -1,6 +1,6 @@
 <!-- Titre et Présentation principale -->
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Shade&size=24&duration=4963&pause=931&color=FFEEEAC8&background=FFFFFF00&width=430&lines=Hi!+I'm+Emma.;Welcome+on+my+profile!"/></h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Shade&size=24&duration=4963&pause=931&color=807876C8&background=FFFFFF00&width=430&lines=Hi!+I'm+Emma.;Welcome+on+my+profile!"/></h1>
 
 <h3 align="center"> I'm learning at <a href="https://github.com/42School" color=FFFFFF>42</a> Perpignan 🎓</h3>
 
@@ -25,6 +25,7 @@
 <p align="center">More about my projects:</p>
 
 <div align="center">
+
 <a href="https://github.com/orgs/bemma-42-Projects/repositories">![42 Badge](https://github.com/bemma-42/bemma-42/blob/main/42_Badges/HolyGraph.png)</a>
 
 </div>
