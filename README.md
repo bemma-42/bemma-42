@@ -1,11 +1,8 @@
-<p align="center">
-  <a><img src="https://img.shields.io/badge/bemma-%23000000?style=for-the-badge&logo=42&logoColor=black&logoSize=auto&labelColor=%000000" width=4000>
-</p>
-
 <!-- Titre et Présentation principale -->
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Jacques+Francois+Shadow&pause=1000&color=FFFFFF&width=435&lines=Hi!+I'm+Emma" alt="Hey, I'm Emma ! 👋🏻" /></h1>
-<h3 align="center"> <b>I'm learning at</b> <a href="https://github.com/42School" color=FFFFFF>42</a> Perpignan 🎓</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Shade&size=24&duration=4963&pause=931&color=FFEEEAC8&background=FFFFFF00&width=430&lines=Hi!+I'm+Emma.;Welcome+on+my+profile!"/></h1>
+
+<h3 align="center"> I'm learning at <a href="https://github.com/42School" color=FFFFFF>42</a> Perpignan 🎓</h3>
 
 ---
 
@@ -24,14 +21,15 @@
 <a href="https://github.com/bemma-42-Projects/push_swap">![42 Badge](https://github.com/bemma-42/bemma-42/blob/main/42_Badges/push_swapm.png)</a>
 
 </div>
-<p align="center"><a href="https://github.com/42School">More about my projects</a></p>
+
+<p align="center"><a>More about my projects</a></p>
+<a href="https://github.com/orgs/bemma-42-Projects/repositories">![42 Badge](https://github.com/bemma-42/bemma-42/blob/main/42_Badges/libftm.png)</a>
+
 
 ---
 
 ### 📊 **Mes statistiques GitHub** :
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bemma-42&show_icons=true&theme=radical" alt="Mes stats GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bemma-42&theme=radical" alt="GitHub Streak" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=bemma-42&show_icons=true&theme=github-light   " alt="Mes stats GitHub" />
 
 ---
