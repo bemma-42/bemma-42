@@ -22,14 +22,9 @@
 
 </div>
 
-<p align="center"><a>More about my projects</a></p>
-<a href="https://github.com/orgs/bemma-42-Projects/repositories">![42 Badge](https://github.com/bemma-42/bemma-42/blob/main/42_Badges/Cursus%20Commun.jpeg)</a>
+<p align="center">More about my projects:</p>
 
+<div align="center">
+<a href="https://github.com/orgs/bemma-42-Projects/repositories">![42 Badge](https://github.com/bemma-42/bemma-42/blob/main/42_Badges/HolyGraph.png)</a>
 
----
-
-### 📊 **Mes statistiques GitHub** :
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bemma-42&show_icons=true&theme=github-light   " alt="Mes stats GitHub" />
-
----
+</div>
