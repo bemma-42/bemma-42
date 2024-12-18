@@ -23,7 +23,7 @@
 </div>
 
 <p align="center"><a>More about my projects</a></p>
-<a href="https://github.com/orgs/bemma-42-Projects/repositories">![42 Badge](https://github.com/bemma-42/bemma-42/blob/main/42_Badges/libftm.png)</a>
+<a href="https://github.com/orgs/bemma-42-Projects/repositories">![42 Badge](https://github.com/bemma-42/bemma-42/blob/main/42_Badges/Cursus%20Commun.jpeg)</a>
 
 
 ---
