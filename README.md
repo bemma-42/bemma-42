@@ -21,12 +21,12 @@
 <a href="https://github.com/bemma-42-Projects/push_swap">![42 Badge](https://github.com/bemma-42/bemma-42/blob/main/42_Badges/push_swapm.png)</a>
 
 </div>
-<div align="center" style="line-height: 1.2;">
 
-  <p style="margin: 0;">More about my projects:</p>
 
+<div align="center">
+<p align="center" style="margin-top: +50px; margin-bottom: -22px">More about my projects:</p>
+  
   <a href="https://github.com/orgs/bemma-42-Projects/repositories">
     <img src="https://github.com/bemma-42/bemma-42/blob/main/42_Badges/HolyGraph.png" alt="42 Badge" style="width: 200px;">
   </a>
-
 </div>
