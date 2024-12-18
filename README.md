@@ -24,8 +24,10 @@
 
 <p align="center">More about my projects:</p>
 
-<div align="center" width=3>
+<div align="center">
 
-<a href="https://github.com/orgs/bemma-42-Projects/repositories" width="-200">![42 Badge](https://github.com/bemma-42/bemma-42/blob/main/42_Badges/HolyGraph.png)</a>
+<a href="https://github.com/orgs/bemma-42-Projects/repositories">
+  <img src="https://github.com/bemma-42/bemma-42/blob/main/42_Badges/HolyGraph.png" alt="42 Badge" style="width: 50%;">
+</a>
 
 </div>
