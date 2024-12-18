@@ -27,7 +27,7 @@
 <div align="center">
 
 <a href="https://github.com/orgs/bemma-42-Projects/repositories">
-  <img src="https://github.com/bemma-42/bemma-42/blob/main/42_Badges/HolyGraph.png" alt="42 Badge" style="width: 50%;">
+  <img src="https://github.com/bemma-42/bemma-42/blob/main/42_Badges/HolyGraph.png" alt="42 Badge" style="width: 300px; border-radius: 10px;">
 </a>
 
 </div>
